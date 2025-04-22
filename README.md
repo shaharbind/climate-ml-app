@@ -14,7 +14,8 @@ Climate-Machine Learning App /
 
 |-- requirements.txt - Project dependencies
 
-|__ Pages
+|-- Pages
+
     |-- data_expoloration.py
 
     |-- model_training.py
