@@ -2,7 +2,6 @@
 
 Climate-Machine Learning App /
 
-|
 |-- app.py  - Main Application
 
 |-- data_utils.py - Data Loading and Preprocessing
@@ -17,8 +16,12 @@ Climate-Machine Learning App /
 
 |__ Pages
     |-- data_expoloration.py
+
     |-- model_training.py
+
     |-- prediction_page.py
+
+
 
 
 
