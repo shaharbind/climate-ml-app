@@ -4,12 +4,19 @@ Climate-Machine Learning App /
 |
 |-- app.py  - Main Application
 |-- data_utils.py - Data Loading and Preprocessing
-|-- Visualization - Plotting function
+|-- Visualizations.py - Plotting function
 |-- models.py - Model Training and evaluation
 |-- predication - Prediction
 |-- requirements.txt - Project dependencies
+|__ Pages
+    |-- data_expoloration.py
+    |-- model_training.py
+    |-- prediction_page.py
 
 
 
-To run the App - Run the readme file by moving to your terminal and running the script ` pip install -m requirements.txt`
+To run the App - Run the readme file by moving to your terminal and running the script 
+` pip install -m requirements.txt`
+
+
 
