@@ -1,24 +1,25 @@
 # 📁 The Project Structure
 
+Climate-Machine Learning App /
 
-Climate-Machine Learning App / | 
-|-- app.py - Main Application 
+|
+|-- app.py  - Main Application
 
-|-- data_utils.py - Data Loading and Preprocessing 
+|-- data_utils.py - Data Loading and Preprocessing
 
-|-- Visualizations.py - Plotting function 
+|-- Visualizations.py - Plotting function
 
-|-- models.py - Model Training and evaluation 
+|-- models.py - Model Training and evaluation
 
-|-- predication.py - Prediction 
+|-- predication - Prediction
 
-|-- requirements.txt - Project dependencies 
+|-- requirements.txt - Project dependencies
 
-|__ Pages |-- data_exploration.py 
+|__ Pages
+    |-- data_expoloration.py
+    |-- model_training.py
+    |-- prediction_page.py
 
-|-- model_training.py 
-
-|-- prediction_page.py
 
 
 ## ▶️ To Run the App
